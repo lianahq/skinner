@@ -1,0 +1,9 @@
+.DS_Store
+temp-project.burp
+burp-rest-api-1.0.0.jar
+dist
+Skinner.egg-info
+*.pyc
+*.log
+.eggs
+build
